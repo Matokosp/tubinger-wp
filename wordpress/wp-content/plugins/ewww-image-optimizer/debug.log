@@ -1,4 +1,8 @@
-2019-03-21 16:26:38
+2019-04-04 13:49:44
+<b>ewww_image_optimizer_settings_script()</b>
+<b>ewww_image_optimizer_bulk_script()</b>
+<b>ewww_image_optimizer_webp_script()</b>
+2019-04-04 13:50:33
 <b>ewww_image_optimizer_gallery_support()</b>
 <b>ewww_image_optimizer_admin_init()</b>
 <b>ewww_image_optimizer_cloud_init()</b>
@@ -8,11 +12,2629 @@
 <b>ewww_image_optimizer_ajax_compat_check()</b>
 <b>EWWWIO_Tracking::schedule_send()</b>
 testing async handling, received 949c34123cf2a4e4ce2f985135830df4a1b2adc24905f53d2fd3f5df5b162932
-2019-03-21 17:44:33
+2019-04-04 13:50:33
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_enable_background_optimization()</b>
+running test async handler
+2019-04-04 13:50:33
+<b>ewww_image_optimizer_install_table()</b>
+current collation: DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci
+upgrading table and checking collation for path, table exists
+path index size: 191
+images db upgrade results: 
+queue db upgrade results: 
+<b>ewww_image_optimizer_set_defaults()</b>
+2019-04-04 13:50:34
 <b>ewww_image_optimizer_settings_script()</b>
 <b>ewww_image_optimizer_bulk_script()</b>
 <b>ewww_image_optimizer_webp_script()</b>
-2019-03-21 18:26:07
+2019-04-04 13:50:34
 <b>ewww_image_optimizer_settings_script()</b>
 <b>ewww_image_optimizer_bulk_script()</b>
 <b>ewww_image_optimizer_webp_script()</b>
+2019-04-04 13:50:41
+<b>ewww_image_optimizer_settings_script()</b>
+<b>ewww_image_optimizer_bulk_script()</b>
+<b>ewww_image_optimizer_webp_script()</b>
+2019-04-04 13:50:42
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 13:50:45
+<b>ewww_image_optimizer_restapi_compat_check()</b>
+<b>ewww_image_optimizer_settings_script()</b>
+<b>ewww_image_optimizer_bulk_script()</b>
+<b>ewww_image_optimizer_webp_script()</b>
+2019-04-04 13:50:47
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_restapi_compat_check()</b>
+2019-04-04 13:50:47
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_restapi_compat_check()</b>
+2019-04-04 13:50:47
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_restapi_compat_check()</b>
+2019-04-04 13:50:47
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_restapi_compat_check()</b>
+2019-04-04 13:50:50
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 13:50:57
+<b>ewww_image_optimizer_handle_upload()</b>
+Array
+(
+    [file] => C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983.jpg
+    [url] => http://localhost:8888/wp-content/uploads/2019/04/IMG-7983.jpg
+    [type] => image/jpeg
+)
+
+<b>ewww_image_optimizer_autorotate()</b>
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983.jpg
+ewwwio type: image/jpeg
+<b>ewww_image_optimizer_get_orientation()</b>
+Array
+(
+    [FileName] => IMG-7983.jpg
+    [FileDateTime] => 1554385854
+    [FileSize] => 81147
+    [FileType] => 2
+    [MimeType] => image/jpeg
+    [SectionsFound] => IFD0, APP12
+    [COMPUTED] => Array
+        (
+            [html] => width="720" height="480"
+            [Height] => 480
+            [Width] => 720
+            [IsColor] => 1
+            [ByteOrderMotorola] => 0
+        )
+    [Company] => Ducky
+    [Info] => 
+)
+
+<b>ewww_image_optimizer_autoconvert()</b>
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983.jpg
+ewwwio type: image/jpeg
+not a PNG, no conversion needed
+<b>ewww_image_optimizer_resize_upload()</b>
+resizing image from media library or attached to post
+uploaded from: http://localhost:8888/wp-admin/post.php?post=74&action=edit
+<b>ewww_image_optimizer_add_attachment()</b>
+<b>ewww_image_optimizer_image_sizes_advanced()</b>
+<b>ewww_image_optimizer_image_sizes()</b>
+<b>ewww_image_optimizer_load_editor()</b>
+loading image editors: EWWWIO_Imagick_Editor
+EWWWIO_GD_Editor
+WP_Image_Editor_Imagick
+WP_Image_Editor_GD
+<b>ewww_image_optimizer_jpg_quality()</b>
+<b>wp_image_editor_imagick::multi_resize()</b>
+<b>wp_image_editor_gd::resize()</b>
+<b>wp_image_editor_gd::_resize()</b>
+<b>ewww_image_optimizer_cloud_verify()</b>
+no API to resize the image
+not an animated GIF
+<b>wp_image_editor_imagick::_save()</b>
+<b>wp_image_editor_gd::resize()</b>
+<b>wp_image_editor_gd::_resize()</b>
+<b>ewww_image_optimizer_cloud_verify()</b>
+no API to resize the image
+not an animated GIF
+GIF already altered, leave it alone
+<b>wp_image_editor_imagick::_save()</b>
+<b>wp_image_editor_gd::resize()</b>
+<b>wp_image_editor_gd::resize()</b>
+<b>wp_image_editor_gd::resize()</b>
+<b>wp_image_editor_gd::resize()</b>
+<b>ewww_image_optimizer_restore_editor_hooks()</b>
+<b>ewww_image_optimizer_resize_from_meta_data()</b>
+attachment id: 255
+this is a newly uploaded image with no metadata yet
+<b>ewww_image_optimizer_attachment_path()</b>
+WP (filtered) thinks the file is at: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983.jpg
+retrieved file path: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983.jpg
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983.jpg
+ewwwio type: image/jpeg
+backgrounding optimization for 255
+queue a is not running, checked with: wp_ewwwio_media_optimize_process_lock
+queue wp_ewwwio_media_optimize_batch_a will be saved to
+small queue, dispatching post-haste
+2019-04-04 13:50:57
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 13:51:01
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 13:51:02
+<b>ewww_image_optimizer_gallery_support()</b>
+background processing 255, type: image/jpeg
+<b>ewww_image_optimizer_resize_from_meta_data()</b>
+attachment id: 255
+this image already has metadata, so it is not new
+<b>ewww_image_optimizer_attachment_path()</b>
+WP (filtered) thinks the file is at: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983.jpg
+retrieved file path: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983.jpg
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983.jpg
+ewwwio type: image/jpeg
+running in sequence
+creating EWWW_Image with C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983.jpg
+<b>ewww_image_optimizer_find_already_optimized()</b>
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983.jpg
+<b>ewww_image_optimizer()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+permissions: 0666, owner: unknown, group: unknown
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983.jpg
+ewwwio type: image/jpeg
+<b>ewww_image_optimizer_exec_check()</b>
+<b>ewww_image_optimizer_find_nix_binary()</b>
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at nice
+nice: 'nice' is not recognized as an internal or external command,
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/bin/nice
+/usr/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/local/bin/nice
+/usr/local/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/gnu/bin/nice
+/usr/gnu/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/syno/bin/nice
+/usr/syno/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_skip_tools()</b>
+enabled: jpegtran
+enabled: optipng
+enabled: gifsicle
+<b>ewww_image_optimizer_stl_check()</b>
+original filesize: 81147
+<b>ewww_image_optimizer_check_table()</b>
+checking for C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983.jpg with size: 81147
+<b>ewww_image_optimizer_autorotate()</b>
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983.jpg
+ewwwio type: image/jpeg
+<b>ewww_image_optimizer_get_orientation()</b>
+Array
+(
+    [FileName] => IMG-7983.jpg
+    [FileDateTime] => 1554385854
+    [FileSize] => 81147
+    [FileType] => 2
+    [MimeType] => image/jpeg
+    [SectionsFound] => IFD0, APP12
+    [COMPUTED] => Array
+        (
+            [html] => width="720" height="480"
+            [Height] => 480
+            [Width] => 720
+            [IsColor] => 1
+            [ByteOrderMotorola] => 0
+        )
+    [Company] => Ducky
+    [Info] => 
+)
+
+<b>ewww_image_optimizer_path_check()</b>
+<b>ewww_image_optimizer_find_win_binary()</b>
+found C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/jpegtran.exe, testing...
+<b>ewww_image_optimizer_md5check()</b>
+C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/jpegtran.exe: 9767f05ae1b59d4fea25a73b276dcd1245f5281b53386dc03784539265bffbea
+checksum verified, binary is intact
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: j at "C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/jpegtran.exe"
+"C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/jpegtran.exe": Independent JPEG Group's JPEGTRAN, version 9b  17-Jan-2016
+optimizer found
+defining EWWW_IMAGE_OPTIMIZER_JPEGTRAN
+using: "C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/jpegtran.exe"
+attempting to optimize JPG...
+optimized JPG size: 79289
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983.jpg.prog
+ewwwio type: image/jpeg
+<b>ewww_image_optimizer_webp_create()</b>
+folder mode: 16895
+attempting chmod with 438
+<b>ewww_image_optimizer_update_table()</b>
+<b>ewww_image_optimizer_find_already_optimized()</b>
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983.jpg
+savings: 79289 (new) vs. 81147 (orig)
+original and new file are different size: Reduced by 2,3% (1,8 KB)
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983.jpg
+creating new record, path: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983.jpg, size: 79289
+<b>ewww_image_optimizer_hidpi_optimize()</b>
+processing resizes
+processing size: thumbnail
+creating EWWW_Image with C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983-150x150.jpg
+<b>ewww_image_optimizer_find_already_optimized()</b>
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983-150x150.jpg
+<b>ewww_image_optimizer()</b>
+permissions: 0666, owner: unknown, group: unknown
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983-150x150.jpg
+ewwwio type: image/jpeg
+<b>ewww_image_optimizer_find_nix_binary()</b>
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at nice
+nice: 'nice' is not recognized as an internal or external command,
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/bin/nice
+/usr/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/local/bin/nice
+/usr/local/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/gnu/bin/nice
+/usr/gnu/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/syno/bin/nice
+/usr/syno/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_skip_tools()</b>
+enabled: jpegtran
+enabled: optipng
+enabled: gifsicle
+<b>ewww_image_optimizer_stl_check()</b>
+original filesize: 8281
+<b>ewww_image_optimizer_check_table()</b>
+checking for C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983-150x150.jpg with size: 8281
+<b>ewww_image_optimizer_autorotate()</b>
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983-150x150.jpg
+ewwwio type: image/jpeg
+<b>ewww_image_optimizer_get_orientation()</b>
+Array
+(
+    [FileName] => IMG-7983-150x150.jpg
+    [FileDateTime] => 1554385855
+    [FileSize] => 8281
+    [FileType] => 2
+    [MimeType] => image/jpeg
+    [SectionsFound] => IFD0
+    [COMPUTED] => Array
+        (
+            [html] => width="150" height="150"
+            [Height] => 150
+            [Width] => 150
+            [IsColor] => 1
+            [ByteOrderMotorola] => 0
+        )
+)
+
+<b>ewww_image_optimizer_path_check()</b>
+using: "C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/jpegtran.exe"
+attempting to optimize JPG...
+optimized JPG size: 7437
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983-150x150.jpg.prog
+ewwwio type: image/jpeg
+<b>ewww_image_optimizer_webp_create()</b>
+folder mode: 16895
+attempting chmod with 438
+<b>ewww_image_optimizer_update_table()</b>
+<b>ewww_image_optimizer_find_already_optimized()</b>
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983-150x150.jpg
+savings: 7437 (new) vs. 8281 (orig)
+original and new file are different size: Reduced by 10,2% (844,0 B)
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983-150x150.jpg
+creating new record, path: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983-150x150.jpg, size: 7437
+<b>ewww_image_optimizer_hidpi_optimize()</b>
+processing size: medium
+creating EWWW_Image with C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983-300x200.jpg
+<b>ewww_image_optimizer_find_already_optimized()</b>
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983-300x200.jpg
+<b>ewww_image_optimizer()</b>
+permissions: 0666, owner: unknown, group: unknown
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983-300x200.jpg
+ewwwio type: image/jpeg
+<b>ewww_image_optimizer_find_nix_binary()</b>
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at nice
+nice: 'nice' is not recognized as an internal or external command,
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/bin/nice
+/usr/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/local/bin/nice
+/usr/local/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/gnu/bin/nice
+/usr/gnu/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/syno/bin/nice
+/usr/syno/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_skip_tools()</b>
+enabled: jpegtran
+enabled: optipng
+enabled: gifsicle
+<b>ewww_image_optimizer_stl_check()</b>
+original filesize: 17715
+<b>ewww_image_optimizer_check_table()</b>
+checking for C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983-300x200.jpg with size: 17715
+<b>ewww_image_optimizer_autorotate()</b>
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983-300x200.jpg
+ewwwio type: image/jpeg
+<b>ewww_image_optimizer_get_orientation()</b>
+Array
+(
+    [FileName] => IMG-7983-300x200.jpg
+    [FileDateTime] => 1554385856
+    [FileSize] => 17715
+    [FileType] => 2
+    [MimeType] => image/jpeg
+    [SectionsFound] => IFD0
+    [COMPUTED] => Array
+        (
+            [html] => width="300" height="200"
+            [Height] => 200
+            [Width] => 300
+            [IsColor] => 1
+            [ByteOrderMotorola] => 0
+        )
+)
+
+<b>ewww_image_optimizer_path_check()</b>
+using: "C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/jpegtran.exe"
+attempting to optimize JPG...
+optimized JPG size: 16793
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983-300x200.jpg.prog
+ewwwio type: image/jpeg
+<b>ewww_image_optimizer_webp_create()</b>
+folder mode: 16895
+attempting chmod with 438
+<b>ewww_image_optimizer_update_table()</b>
+<b>ewww_image_optimizer_find_already_optimized()</b>
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983-300x200.jpg
+savings: 16793 (new) vs. 17715 (orig)
+original and new file are different size: Reduced by 5,2% (922,0 B)
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983-300x200.jpg
+creating new record, path: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/IMG-7983-300x200.jpg, size: 16793
+<b>ewww_image_optimizer_hidpi_optimize()</b>
+2019-04-04 13:51:47
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 13:53:47
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 13:55:47
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 13:57:47
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 13:59:47
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 14:01:47
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 14:03:47
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 14:05:51
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 14:07:41
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 14:07:41
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 14:07:54
+<b>ewww_image_optimizer_handle_upload()</b>
+Array
+(
+    [file] => C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/slider.jpg
+    [url] => http://localhost:8888/wp-content/uploads/2019/04/slider.jpg
+    [type] => image/jpeg
+)
+
+<b>ewww_image_optimizer_autorotate()</b>
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/slider.jpg
+ewwwio type: image/jpeg
+<b>ewww_image_optimizer_get_orientation()</b>
+Array
+(
+    [FileName] => slider.jpg
+    [FileDateTime] => 1554386872
+    [FileSize] => 59268
+    [FileType] => 2
+    [MimeType] => image/jpeg
+    [SectionsFound] => APP12
+    [COMPUTED] => Array
+        (
+            [html] => width="720" height="480"
+            [Height] => 480
+            [Width] => 720
+            [IsColor] => 1
+        )
+    [Company] => Ducky
+    [Info] => 
+)
+
+<b>ewww_image_optimizer_autoconvert()</b>
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/slider.jpg
+ewwwio type: image/jpeg
+not a PNG, no conversion needed
+<b>ewww_image_optimizer_resize_upload()</b>
+resizing image from media library or attached to post
+uploaded from: http://localhost:8888/wp-admin/post.php?post=74&action=edit
+<b>ewww_image_optimizer_add_attachment()</b>
+<b>ewww_image_optimizer_image_sizes_advanced()</b>
+<b>ewww_image_optimizer_image_sizes()</b>
+<b>ewww_image_optimizer_load_editor()</b>
+loading image editors: EWWWIO_Imagick_Editor
+EWWWIO_GD_Editor
+WP_Image_Editor_Imagick
+WP_Image_Editor_GD
+<b>ewww_image_optimizer_jpg_quality()</b>
+<b>wp_image_editor_imagick::multi_resize()</b>
+<b>wp_image_editor_gd::resize()</b>
+<b>wp_image_editor_gd::_resize()</b>
+<b>ewww_image_optimizer_cloud_verify()</b>
+no API to resize the image
+not an animated GIF
+<b>wp_image_editor_imagick::_save()</b>
+<b>wp_image_editor_gd::resize()</b>
+<b>wp_image_editor_gd::_resize()</b>
+<b>ewww_image_optimizer_cloud_verify()</b>
+no API to resize the image
+not an animated GIF
+GIF already altered, leave it alone
+<b>wp_image_editor_imagick::_save()</b>
+<b>wp_image_editor_gd::resize()</b>
+<b>wp_image_editor_gd::resize()</b>
+<b>wp_image_editor_gd::resize()</b>
+<b>wp_image_editor_gd::resize()</b>
+<b>ewww_image_optimizer_restore_editor_hooks()</b>
+<b>ewww_image_optimizer_resize_from_meta_data()</b>
+attachment id: 256
+this is a newly uploaded image with no metadata yet
+<b>ewww_image_optimizer_attachment_path()</b>
+WP (filtered) thinks the file is at: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/slider.jpg
+retrieved file path: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/slider.jpg
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/slider.jpg
+ewwwio type: image/jpeg
+backgrounding optimization for 256
+queue a is not running, checked with: wp_ewwwio_media_optimize_process_lock
+queue wp_ewwwio_media_optimize_batch_a will be saved to
+small queue, dispatching post-haste
+2019-04-04 14:07:55
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 14:07:57
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_restapi_compat_check()</b>
+2019-04-04 14:08:00
+<b>ewww_image_optimizer_gallery_support()</b>
+background processing 256, type: image/jpeg
+<b>ewww_image_optimizer_resize_from_meta_data()</b>
+attachment id: 256
+this image already has metadata, so it is not new
+<b>ewww_image_optimizer_attachment_path()</b>
+WP (filtered) thinks the file is at: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/slider.jpg
+retrieved file path: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/slider.jpg
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/slider.jpg
+ewwwio type: image/jpeg
+running in sequence
+creating EWWW_Image with C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/slider.jpg
+<b>ewww_image_optimizer_find_already_optimized()</b>
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/slider.jpg
+<b>ewww_image_optimizer()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+permissions: 0666, owner: unknown, group: unknown
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/slider.jpg
+ewwwio type: image/jpeg
+<b>ewww_image_optimizer_exec_check()</b>
+<b>ewww_image_optimizer_find_nix_binary()</b>
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at nice
+nice: 'nice' is not recognized as an internal or external command,
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/bin/nice
+/usr/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/local/bin/nice
+/usr/local/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/gnu/bin/nice
+/usr/gnu/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/syno/bin/nice
+/usr/syno/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_skip_tools()</b>
+enabled: jpegtran
+enabled: optipng
+enabled: gifsicle
+<b>ewww_image_optimizer_stl_check()</b>
+original filesize: 59268
+<b>ewww_image_optimizer_check_table()</b>
+checking for C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/slider.jpg with size: 59268
+<b>ewww_image_optimizer_autorotate()</b>
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/slider.jpg
+ewwwio type: image/jpeg
+<b>ewww_image_optimizer_get_orientation()</b>
+Array
+(
+    [FileName] => slider.jpg
+    [FileDateTime] => 1554386872
+    [FileSize] => 59268
+    [FileType] => 2
+    [MimeType] => image/jpeg
+    [SectionsFound] => APP12
+    [COMPUTED] => Array
+        (
+            [html] => width="720" height="480"
+            [Height] => 480
+            [Width] => 720
+            [IsColor] => 1
+        )
+    [Company] => Ducky
+    [Info] => 
+)
+
+<b>ewww_image_optimizer_path_check()</b>
+<b>ewww_image_optimizer_find_win_binary()</b>
+found C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/jpegtran.exe, testing...
+<b>ewww_image_optimizer_md5check()</b>
+C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/jpegtran.exe: 9767f05ae1b59d4fea25a73b276dcd1245f5281b53386dc03784539265bffbea
+checksum verified, binary is intact
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: j at "C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/jpegtran.exe"
+"C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/jpegtran.exe": Independent JPEG Group's JPEGTRAN, version 9b  17-Jan-2016
+optimizer found
+defining EWWW_IMAGE_OPTIMIZER_JPEGTRAN
+using: "C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/jpegtran.exe"
+attempting to optimize JPG...
+optimized JPG size: 58557
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/slider.jpg.prog
+ewwwio type: image/jpeg
+<b>ewww_image_optimizer_webp_create()</b>
+folder mode: 16895
+attempting chmod with 438
+<b>ewww_image_optimizer_update_table()</b>
+<b>ewww_image_optimizer_find_already_optimized()</b>
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/slider.jpg
+savings: 58557 (new) vs. 59268 (orig)
+original and new file are different size: Reduced by 1,2% (711,0 B)
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/slider.jpg
+creating new record, path: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/slider.jpg, size: 58557
+<b>ewww_image_optimizer_hidpi_optimize()</b>
+processing resizes
+processing size: thumbnail
+creating EWWW_Image with C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/slider-150x150.jpg
+<b>ewww_image_optimizer_find_already_optimized()</b>
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/slider-150x150.jpg
+<b>ewww_image_optimizer()</b>
+permissions: 0666, owner: unknown, group: unknown
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/slider-150x150.jpg
+ewwwio type: image/jpeg
+<b>ewww_image_optimizer_find_nix_binary()</b>
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at nice
+nice: 'nice' is not recognized as an internal or external command,
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/bin/nice
+/usr/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/local/bin/nice
+/usr/local/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/gnu/bin/nice
+/usr/gnu/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/syno/bin/nice
+/usr/syno/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_skip_tools()</b>
+enabled: jpegtran
+enabled: optipng
+enabled: gifsicle
+<b>ewww_image_optimizer_stl_check()</b>
+original filesize: 5673
+<b>ewww_image_optimizer_check_table()</b>
+checking for C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/slider-150x150.jpg with size: 5673
+<b>ewww_image_optimizer_autorotate()</b>
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/slider-150x150.jpg
+ewwwio type: image/jpeg
+<b>ewww_image_optimizer_get_orientation()</b>
+Array
+(
+    [FileName] => slider-150x150.jpg
+    [FileDateTime] => 1554386873
+    [FileSize] => 5673
+    [FileType] => 2
+    [MimeType] => image/jpeg
+    [SectionsFound] => 
+    [COMPUTED] => Array
+        (
+            [html] => width="150" height="150"
+            [Height] => 150
+            [Width] => 150
+            [IsColor] => 1
+        )
+)
+
+<b>ewww_image_optimizer_path_check()</b>
+using: "C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/jpegtran.exe"
+attempting to optimize JPG...
+optimized JPG size: 5673
+<b>ewww_image_optimizer_webp_create()</b>
+folder mode: 16895
+attempting chmod with 438
+<b>ewww_image_optimizer_update_table()</b>
+<b>ewww_image_optimizer_find_already_optimized()</b>
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/slider-150x150.jpg
+savings: 5673 (new) vs. 5673 (orig)
+original and new file are same size (or something weird made the new one larger), no savings
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/slider-150x150.jpg
+creating new record, path: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/slider-150x150.jpg, size: 5673
+<b>ewww_image_optimizer_hidpi_optimize()</b>
+processing size: medium
+creating EWWW_Image with C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/slider-300x200.jpg
+<b>ewww_image_optimizer_find_already_optimized()</b>
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/slider-300x200.jpg
+<b>ewww_image_optimizer()</b>
+permissions: 0666, owner: unknown, group: unknown
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/slider-300x200.jpg
+ewwwio type: image/jpeg
+<b>ewww_image_optimizer_find_nix_binary()</b>
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at nice
+nice: 'nice' is not recognized as an internal or external command,
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/bin/nice
+/usr/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/local/bin/nice
+/usr/local/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/gnu/bin/nice
+/usr/gnu/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/syno/bin/nice
+/usr/syno/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_skip_tools()</b>
+enabled: jpegtran
+enabled: optipng
+enabled: gifsicle
+<b>ewww_image_optimizer_stl_check()</b>
+original filesize: 11850
+<b>ewww_image_optimizer_check_table()</b>
+checking for C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/slider-300x200.jpg with size: 11850
+<b>ewww_image_optimizer_autorotate()</b>
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/slider-300x200.jpg
+ewwwio type: image/jpeg
+<b>ewww_image_optimizer_get_orientation()</b>
+Array
+(
+    [FileName] => slider-300x200.jpg
+    [FileDateTime] => 1554386873
+    [FileSize] => 11850
+    [FileType] => 2
+    [MimeType] => image/jpeg
+    [SectionsFound] => 
+    [COMPUTED] => Array
+        (
+            [html] => width="300" height="200"
+            [Height] => 200
+            [Width] => 300
+            [IsColor] => 1
+        )
+)
+
+<b>ewww_image_optimizer_path_check()</b>
+using: "C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/jpegtran.exe"
+attempting to optimize JPG...
+optimized JPG size: 11914
+<b>ewww_image_optimizer_webp_create()</b>
+folder mode: 16895
+attempting chmod with 438
+<b>ewww_image_optimizer_update_table()</b>
+<b>ewww_image_optimizer_find_already_optimized()</b>
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/slider-300x200.jpg
+savings: 11850 (new) vs. 11850 (orig)
+original and new file are same size (or something weird made the new one larger), no savings
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/slider-300x200.jpg
+creating new record, path: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/slider-300x200.jpg, size: 11850
+<b>ewww_image_optimizer_hidpi_optimize()</b>
+2019-04-04 14:08:00
+<b>ewww_image_optimizer_restapi_compat_check()</b>
+<b>ewww_image_optimizer_settings_script()</b>
+<b>ewww_image_optimizer_bulk_script()</b>
+<b>ewww_image_optimizer_webp_script()</b>
+2019-04-04 14:08:41
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 14:09:08
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 14:09:09
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-04 14:09:09
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-04 14:09:12
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-04 14:09:16
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-04 14:09:16
+<b>ewww_image_optimizer_settings_script()</b>
+<b>ewww_image_optimizer_bulk_script()</b>
+<b>ewww_image_optimizer_webp_script()</b>
+2019-04-04 14:09:22
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-04 14:09:34
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-04 14:09:34
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-04 14:09:40
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-04 14:09:40
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-04 14:10:17
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 14:12:17
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 14:14:17
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 14:16:18
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 14:18:20
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 14:20:21
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 14:22:21
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 14:24:22
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 14:26:23
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 14:28:24
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 14:30:25
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 14:32:25
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 14:34:26
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 14:36:28
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-04 14:36:28
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 14:38:28
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 14:40:29
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 14:42:30
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 14:44:32
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 14:46:32
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 14:48:34
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 14:50:34
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 14:52:35
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 14:54:36
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 14:56:37
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 14:58:38
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 15:00:39
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 15:02:40
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 15:04:41
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 15:06:42
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 15:08:44
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 15:10:43
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 15:12:44
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 15:14:45
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 15:16:46
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 15:18:47
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-04 15:20:47
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 01:20:35
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 01:20:39
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 01:21:07
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 01:21:26
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 01:21:26
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 01:21:30
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 01:21:31
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 01:21:32
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 01:21:52
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 01:22:49
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 01:22:49
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 01:23:19
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 01:23:30
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 01:23:30
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 01:23:32
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 01:23:33
+<b>ewww_image_optimizer_settings_script()</b>
+<b>ewww_image_optimizer_bulk_script()</b>
+<b>ewww_image_optimizer_webp_script()</b>
+2019-04-05 01:23:52
+<b>ewww_image_optimizer_settings_script()</b>
+<b>ewww_image_optimizer_bulk_script()</b>
+<b>ewww_image_optimizer_webp_script()</b>
+2019-04-05 01:23:53
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 01:23:58
+<b>ewww_image_optimizer_settings_script()</b>
+<b>ewww_image_optimizer_bulk_script()</b>
+<b>ewww_image_optimizer_webp_script()</b>
+2019-04-05 01:24:03
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 01:24:04
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 01:24:06
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 01:24:14
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 01:24:27
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 01:24:28
+<b>ewww_image_optimizer_settings_script()</b>
+<b>ewww_image_optimizer_bulk_script()</b>
+<b>ewww_image_optimizer_webp_script()</b>
+2019-04-05 01:24:29
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 01:24:30
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 01:24:41
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 01:24:51
+<b>ewww_image_optimizer_settings_script()</b>
+<b>ewww_image_optimizer_bulk_script()</b>
+<b>ewww_image_optimizer_webp_script()</b>
+2019-04-05 01:24:51
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 01:24:51
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 01:24:55
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 01:25:07
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 01:25:20
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 01:25:50
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 01:27:08
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 01:29:09
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 01:29:26
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 01:31:09
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 01:33:10
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 01:35:11
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 01:37:13
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 01:37:13
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 01:38:51
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 01:40:52
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 01:42:52
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 02:19:44
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:22:03
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:22:14
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:22:20
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:22:26
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 02:22:42
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:22:48
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:22:49
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:24:14
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:24:14
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:24:16
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:24:17
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:24:22
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:24:24
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 02:25:02
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:25:07
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 02:25:09
+<b>ewww_image_optimizer_settings_script()</b>
+<b>ewww_image_optimizer_bulk_script()</b>
+<b>ewww_image_optimizer_webp_script()</b>
+2019-04-05 02:25:10
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 02:25:13
+<b>ewww_image_optimizer_settings_script()</b>
+<b>ewww_image_optimizer_bulk_script()</b>
+<b>ewww_image_optimizer_webp_script()</b>
+2019-04-05 02:25:34
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 02:25:51
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 02:26:02
+<b>ewww_image_optimizer_settings_script()</b>
+<b>ewww_image_optimizer_bulk_script()</b>
+<b>ewww_image_optimizer_webp_script()</b>
+2019-04-05 02:26:03
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 02:26:05
+<b>ewww_image_optimizer_settings_script()</b>
+<b>ewww_image_optimizer_bulk_script()</b>
+<b>ewww_image_optimizer_webp_script()</b>
+2019-04-05 02:26:05
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 02:26:06
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 02:26:07
+<b>ewww_image_optimizer_restapi_compat_check()</b>
+<b>ewww_image_optimizer_settings_script()</b>
+<b>ewww_image_optimizer_bulk_script()</b>
+<b>ewww_image_optimizer_webp_script()</b>
+2019-04-05 02:26:09
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_restapi_compat_check()</b>
+2019-04-05 02:26:09
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_restapi_compat_check()</b>
+2019-04-05 02:26:09
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_restapi_compat_check()</b>
+2019-04-05 02:26:09
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_restapi_compat_check()</b>
+2019-04-05 02:26:12
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 02:26:29
+<b>ewww_image_optimizer_handle_upload()</b>
+Array
+(
+    [file] => C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus.png
+    [url] => http://localhost:8888/wp-content/uploads/2019/04/tottus.png
+    [type] => image/png
+)
+
+<b>ewww_image_optimizer_autorotate()</b>
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus.png
+ewwwio type: image/png
+not a JPG, no rotation needed
+<b>ewww_image_optimizer_autoconvert()</b>
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus.png
+ewwwio type: image/png
+not a large PNG, skipping
+<b>ewww_image_optimizer_resize_upload()</b>
+resizing image from media library or attached to post
+uploaded from: http://localhost:8888/wp-admin/post.php?post=103&action=edit
+<b>ewww_image_optimizer_add_attachment()</b>
+<b>ewww_image_optimizer_image_sizes_advanced()</b>
+<b>ewww_image_optimizer_image_sizes()</b>
+<b>ewww_image_optimizer_load_editor()</b>
+loading image editors: EWWWIO_Imagick_Editor
+EWWWIO_GD_Editor
+WP_Image_Editor_Imagick
+WP_Image_Editor_GD
+<b>wp_image_editor_imagick::multi_resize()</b>
+<b>wp_image_editor_gd::resize()</b>
+<b>wp_image_editor_gd::_resize()</b>
+<b>ewww_image_optimizer_cloud_verify()</b>
+no API to resize the image
+not an animated GIF
+<b>wp_image_editor_imagick::_save()</b>
+<b>wp_image_editor_gd::resize()</b>
+<b>wp_image_editor_gd::_resize()</b>
+<b>ewww_image_optimizer_cloud_verify()</b>
+no API to resize the image
+not an animated GIF
+GIF already altered, leave it alone
+<b>wp_image_editor_imagick::_save()</b>
+<b>wp_image_editor_gd::resize()</b>
+<b>wp_image_editor_gd::_resize()</b>
+<b>ewww_image_optimizer_cloud_verify()</b>
+no API to resize the image
+not an animated GIF
+GIF already altered, leave it alone
+<b>wp_image_editor_imagick::_save()</b>
+<b>wp_image_editor_gd::resize()</b>
+<b>wp_image_editor_gd::resize()</b>
+<b>wp_image_editor_gd::_resize()</b>
+<b>ewww_image_optimizer_cloud_verify()</b>
+no API to resize the image
+not an animated GIF
+GIF already altered, leave it alone
+<b>wp_image_editor_imagick::_save()</b>
+<b>wp_image_editor_gd::resize()</b>
+<b>wp_image_editor_gd::_resize()</b>
+<b>ewww_image_optimizer_cloud_verify()</b>
+no API to resize the image
+not an animated GIF
+GIF already altered, leave it alone
+<b>wp_image_editor_imagick::_save()</b>
+<b>ewww_image_optimizer_restore_editor_hooks()</b>
+<b>ewww_image_optimizer_resize_from_meta_data()</b>
+attachment id: 262
+this is a newly uploaded image with no metadata yet
+<b>ewww_image_optimizer_attachment_path()</b>
+WP (filtered) thinks the file is at: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus.png
+retrieved file path: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus.png
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus.png
+ewwwio type: image/png
+backgrounding optimization for 262
+queue a is not running, checked with: wp_ewwwio_media_optimize_process_lock
+queue wp_ewwwio_media_optimize_batch_a will be saved to
+small queue, dispatching post-haste
+2019-04-05 02:26:29
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 02:26:33
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 02:26:36
+<b>ewww_image_optimizer_gallery_support()</b>
+background processing 262, type: image/png
+<b>ewww_image_optimizer_resize_from_meta_data()</b>
+attachment id: 262
+this image already has metadata, so it is not new
+<b>ewww_image_optimizer_attachment_path()</b>
+WP (filtered) thinks the file is at: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus.png
+retrieved file path: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus.png
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus.png
+ewwwio type: image/png
+running in sequence
+creating EWWW_Image with C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus.png
+<b>ewww_image_optimizer_find_already_optimized()</b>
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus.png
+<b>ewww_image_optimizer()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+permissions: 0666, owner: unknown, group: unknown
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus.png
+ewwwio type: image/png
+<b>ewww_image_optimizer_exec_check()</b>
+<b>ewww_image_optimizer_find_nix_binary()</b>
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at nice
+nice: 'nice' is not recognized as an internal or external command,
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/bin/nice
+/usr/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/local/bin/nice
+/usr/local/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/gnu/bin/nice
+/usr/gnu/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/syno/bin/nice
+/usr/syno/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_skip_tools()</b>
+enabled: jpegtran
+enabled: optipng
+enabled: gifsicle
+<b>ewww_image_optimizer_stl_check()</b>
+original filesize: 10563
+PNG to JPG conversion turned off
+<b>ewww_image_optimizer_check_table()</b>
+checking for C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus.png with size: 10563
+<b>ewww_image_optimizer_path_check()</b>
+<b>ewww_image_optimizer_find_win_binary()</b>
+found C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe, testing...
+<b>ewww_image_optimizer_md5check()</b>
+C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe: 6a321e07eca8e28fa8a969b5db3c1d3cc008a2064d636cf74762bbe4364b7b14
+checksum verified, binary is intact
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: o at "C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe"
+"C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe": OptiPNG version 0.7.7
+optimizer found
+defining EWWW_IMAGE_OPTIMIZER_OPTIPNG
+using: "C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe"
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: o at "C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe"
+"C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe": OptiPNG version 0.7.7
+optimizer found
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus.png.tmp.png
+ewwwio type: image/png
+<b>ewww_image_optimizer_webp_create()</b>
+folder mode: 16895
+attempting chmod with 438
+<b>ewww_image_optimizer_update_table()</b>
+<b>ewww_image_optimizer_find_already_optimized()</b>
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus.png
+savings: 5634 (new) vs. 10563 (orig)
+original and new file are different size: Reduced by 46,7% (4,8 KB)
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus.png
+creating new record, path: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus.png, size: 5634
+<b>ewww_image_optimizer_hidpi_optimize()</b>
+processing resizes
+processing size: thumbnail
+creating EWWW_Image with C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus-150x150.png
+<b>ewww_image_optimizer_find_already_optimized()</b>
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus-150x150.png
+<b>ewww_image_optimizer()</b>
+permissions: 0666, owner: unknown, group: unknown
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus-150x150.png
+ewwwio type: image/png
+<b>ewww_image_optimizer_find_nix_binary()</b>
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at nice
+nice: 'nice' is not recognized as an internal or external command,
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/bin/nice
+/usr/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/local/bin/nice
+/usr/local/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/gnu/bin/nice
+/usr/gnu/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/syno/bin/nice
+/usr/syno/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_skip_tools()</b>
+enabled: jpegtran
+enabled: optipng
+enabled: gifsicle
+<b>ewww_image_optimizer_stl_check()</b>
+original filesize: 2018
+PNG to JPG conversion turned off
+<b>ewww_image_optimizer_check_table()</b>
+checking for C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus-150x150.png with size: 2018
+<b>ewww_image_optimizer_path_check()</b>
+using: "C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe"
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: o at "C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe"
+"C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe": OptiPNG version 0.7.7
+optimizer found
+<b>ewww_image_optimizer_webp_create()</b>
+folder mode: 16895
+attempting chmod with 438
+<b>ewww_image_optimizer_update_table()</b>
+<b>ewww_image_optimizer_find_already_optimized()</b>
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus-150x150.png
+savings: 2018 (new) vs. 2018 (orig)
+original and new file are same size (or something weird made the new one larger), no savings
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus-150x150.png
+creating new record, path: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus-150x150.png, size: 2018
+<b>ewww_image_optimizer_hidpi_optimize()</b>
+processing size: medium
+creating EWWW_Image with C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus-300x67.png
+<b>ewww_image_optimizer_find_already_optimized()</b>
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus-300x67.png
+<b>ewww_image_optimizer()</b>
+permissions: 0666, owner: unknown, group: unknown
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus-300x67.png
+ewwwio type: image/png
+<b>ewww_image_optimizer_find_nix_binary()</b>
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at nice
+nice: 'nice' is not recognized as an internal or external command,
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/bin/nice
+/usr/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/local/bin/nice
+/usr/local/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/gnu/bin/nice
+/usr/gnu/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/syno/bin/nice
+/usr/syno/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_skip_tools()</b>
+enabled: jpegtran
+enabled: optipng
+enabled: gifsicle
+<b>ewww_image_optimizer_stl_check()</b>
+original filesize: 4863
+PNG to JPG conversion turned off
+<b>ewww_image_optimizer_check_table()</b>
+checking for C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus-300x67.png with size: 4863
+<b>ewww_image_optimizer_path_check()</b>
+using: "C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe"
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: o at "C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe"
+"C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe": OptiPNG version 0.7.7
+optimizer found
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus-300x67.png.tmp.png
+ewwwio type: image/png
+<b>ewww_image_optimizer_webp_create()</b>
+folder mode: 16895
+attempting chmod with 438
+<b>ewww_image_optimizer_update_table()</b>
+<b>ewww_image_optimizer_find_already_optimized()</b>
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus-300x67.png
+savings: 4350 (new) vs. 4863 (orig)
+original and new file are different size: Reduced by 10,5% (513,0 B)
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus-300x67.png
+creating new record, path: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus-300x67.png, size: 4350
+<b>ewww_image_optimizer_hidpi_optimize()</b>
+processing size: medium_large
+creating EWWW_Image with C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus-768x171.png
+<b>ewww_image_optimizer_find_already_optimized()</b>
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus-768x171.png
+<b>ewww_image_optimizer()</b>
+permissions: 0666, owner: unknown, group: unknown
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus-768x171.png
+ewwwio type: image/png
+<b>ewww_image_optimizer_find_nix_binary()</b>
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at nice
+nice: 'nice' is not recognized as an internal or external command,
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/bin/nice
+/usr/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/local/bin/nice
+/usr/local/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/gnu/bin/nice
+/usr/gnu/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/syno/bin/nice
+/usr/syno/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_skip_tools()</b>
+enabled: jpegtran
+enabled: optipng
+enabled: gifsicle
+<b>ewww_image_optimizer_stl_check()</b>
+original filesize: 13146
+PNG to JPG conversion turned off
+<b>ewww_image_optimizer_check_table()</b>
+checking for C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus-768x171.png with size: 13146
+<b>ewww_image_optimizer_path_check()</b>
+using: "C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe"
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: o at "C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe"
+"C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe": OptiPNG version 0.7.7
+optimizer found
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus-768x171.png.tmp.png
+ewwwio type: image/png
+<b>ewww_image_optimizer_webp_create()</b>
+folder mode: 16895
+attempting chmod with 438
+<b>ewww_image_optimizer_update_table()</b>
+<b>ewww_image_optimizer_find_already_optimized()</b>
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus-768x171.png
+savings: 11824 (new) vs. 13146 (orig)
+original and new file are different size: Reduced by 10,1% (1,3 KB)
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus-768x171.png
+creating new record, path: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus-768x171.png, size: 11824
+<b>ewww_image_optimizer_hidpi_optimize()</b>
+processing size: slideshow
+creating EWWW_Image with C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus-800x200.png
+<b>ewww_image_optimizer_find_already_optimized()</b>
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus-800x200.png
+<b>ewww_image_optimizer()</b>
+permissions: 0666, owner: unknown, group: unknown
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus-800x200.png
+ewwwio type: image/png
+<b>ewww_image_optimizer_find_nix_binary()</b>
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at nice
+nice: 'nice' is not recognized as an internal or external command,
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/bin/nice
+/usr/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/local/bin/nice
+/usr/local/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/gnu/bin/nice
+/usr/gnu/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/syno/bin/nice
+/usr/syno/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_skip_tools()</b>
+enabled: jpegtran
+enabled: optipng
+enabled: gifsicle
+<b>ewww_image_optimizer_stl_check()</b>
+original filesize: 7471
+PNG to JPG conversion turned off
+<b>ewww_image_optimizer_check_table()</b>
+checking for C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus-800x200.png with size: 7471
+<b>ewww_image_optimizer_path_check()</b>
+using: "C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe"
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: o at "C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe"
+"C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe": OptiPNG version 0.7.7
+optimizer found
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus-800x200.png.tmp.png
+ewwwio type: image/png
+<b>ewww_image_optimizer_webp_create()</b>
+folder mode: 16895
+attempting chmod with 438
+<b>ewww_image_optimizer_update_table()</b>
+<b>ewww_image_optimizer_find_already_optimized()</b>
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus-800x200.png
+savings: 5145 (new) vs. 7471 (orig)
+original and new file are different size: Reduced by 31,1% (2,3 KB)
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus-800x200.png
+creating new record, path: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/tottus-800x200.png, size: 5145
+<b>ewww_image_optimizer_hidpi_optimize()</b>
+processing size: custom_logo
+2019-04-05 02:26:43
+<b>ewww_image_optimizer_handle_upload()</b>
+Array
+(
+    [file] => C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo.png
+    [url] => http://localhost:8888/wp-content/uploads/2019/04/jumbo.png
+    [type] => image/png
+)
+
+<b>ewww_image_optimizer_autorotate()</b>
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo.png
+ewwwio type: image/png
+not a JPG, no rotation needed
+<b>ewww_image_optimizer_autoconvert()</b>
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo.png
+ewwwio type: image/png
+not a large PNG, skipping
+<b>ewww_image_optimizer_resize_upload()</b>
+resizing image from media library or attached to post
+uploaded from: http://localhost:8888/wp-admin/post.php?post=103&action=edit
+<b>ewww_image_optimizer_add_attachment()</b>
+<b>ewww_image_optimizer_image_sizes_advanced()</b>
+<b>ewww_image_optimizer_image_sizes()</b>
+<b>ewww_image_optimizer_load_editor()</b>
+loading image editors: EWWWIO_Imagick_Editor
+EWWWIO_GD_Editor
+WP_Image_Editor_Imagick
+WP_Image_Editor_GD
+<b>wp_image_editor_imagick::multi_resize()</b>
+<b>wp_image_editor_gd::resize()</b>
+<b>wp_image_editor_gd::_resize()</b>
+<b>ewww_image_optimizer_cloud_verify()</b>
+no API to resize the image
+not an animated GIF
+<b>wp_image_editor_imagick::_save()</b>
+<b>wp_image_editor_gd::resize()</b>
+<b>wp_image_editor_gd::_resize()</b>
+<b>ewww_image_optimizer_cloud_verify()</b>
+no API to resize the image
+not an animated GIF
+GIF already altered, leave it alone
+<b>wp_image_editor_imagick::_save()</b>
+<b>wp_image_editor_gd::resize()</b>
+<b>wp_image_editor_gd::_resize()</b>
+<b>ewww_image_optimizer_cloud_verify()</b>
+no API to resize the image
+not an animated GIF
+GIF already altered, leave it alone
+<b>wp_image_editor_imagick::_save()</b>
+<b>wp_image_editor_gd::resize()</b>
+<b>wp_image_editor_gd::resize()</b>
+<b>wp_image_editor_gd::_resize()</b>
+<b>ewww_image_optimizer_cloud_verify()</b>
+no API to resize the image
+not an animated GIF
+GIF already altered, leave it alone
+<b>wp_image_editor_imagick::_save()</b>
+<b>wp_image_editor_gd::resize()</b>
+<b>wp_image_editor_gd::_resize()</b>
+<b>ewww_image_optimizer_cloud_verify()</b>
+no API to resize the image
+not an animated GIF
+GIF already altered, leave it alone
+<b>wp_image_editor_imagick::_save()</b>
+<b>ewww_image_optimizer_restore_editor_hooks()</b>
+<b>ewww_image_optimizer_resize_from_meta_data()</b>
+attachment id: 263
+this is a newly uploaded image with no metadata yet
+<b>ewww_image_optimizer_attachment_path()</b>
+WP (filtered) thinks the file is at: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo.png
+retrieved file path: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo.png
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo.png
+ewwwio type: image/png
+backgrounding optimization for 263
+queue a is not running, checked with: wp_ewwwio_media_optimize_process_lock
+queue wp_ewwwio_media_optimize_batch_a will be saved to
+small queue, dispatching post-haste
+2019-04-05 02:26:45
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_restapi_compat_check()</b>
+2019-04-05 02:26:47
+<b>ewww_image_optimizer_restapi_compat_check()</b>
+<b>ewww_image_optimizer_settings_script()</b>
+<b>ewww_image_optimizer_bulk_script()</b>
+<b>ewww_image_optimizer_webp_script()</b>
+2019-04-05 02:26:49
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+background processing 263, type: image/png
+<b>ewww_image_optimizer_resize_from_meta_data()</b>
+attachment id: 263
+this image already has metadata, so it is not new
+<b>ewww_image_optimizer_attachment_path()</b>
+WP (filtered) thinks the file is at: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo.png
+retrieved file path: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo.png
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo.png
+ewwwio type: image/png
+running in sequence
+creating EWWW_Image with C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo.png
+<b>ewww_image_optimizer_find_already_optimized()</b>
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo.png
+<b>ewww_image_optimizer()</b>
+permissions: 0666, owner: unknown, group: unknown
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo.png
+ewwwio type: image/png
+<b>ewww_image_optimizer_exec_check()</b>
+<b>ewww_image_optimizer_find_nix_binary()</b>
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at nice
+nice: 'nice' is not recognized as an internal or external command,
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/bin/nice
+/usr/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/local/bin/nice
+/usr/local/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/gnu/bin/nice
+/usr/gnu/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/syno/bin/nice
+/usr/syno/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_skip_tools()</b>
+enabled: jpegtran
+enabled: optipng
+enabled: gifsicle
+<b>ewww_image_optimizer_stl_check()</b>
+original filesize: 18309
+PNG to JPG conversion turned off
+<b>ewww_image_optimizer_check_table()</b>
+checking for C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo.png with size: 18309
+<b>ewww_image_optimizer_path_check()</b>
+<b>ewww_image_optimizer_find_win_binary()</b>
+found C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe, testing...
+<b>ewww_image_optimizer_md5check()</b>
+C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe: 6a321e07eca8e28fa8a969b5db3c1d3cc008a2064d636cf74762bbe4364b7b14
+checksum verified, binary is intact
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: o at "C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe"
+"C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe": OptiPNG version 0.7.7
+optimizer found
+defining EWWW_IMAGE_OPTIMIZER_OPTIPNG
+using: "C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe"
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: o at "C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe"
+"C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe": OptiPNG version 0.7.7
+optimizer found
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo.png.tmp.png
+ewwwio type: image/png
+<b>ewww_image_optimizer_webp_create()</b>
+folder mode: 16895
+attempting chmod with 438
+<b>ewww_image_optimizer_update_table()</b>
+<b>ewww_image_optimizer_find_already_optimized()</b>
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo.png
+savings: 8872 (new) vs. 18309 (orig)
+original and new file are different size: Reduced by 51,5% (9,2 KB)
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo.png
+creating new record, path: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo.png, size: 8872
+<b>ewww_image_optimizer_hidpi_optimize()</b>
+processing resizes
+processing size: thumbnail
+creating EWWW_Image with C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo-150x150.png
+<b>ewww_image_optimizer_find_already_optimized()</b>
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo-150x150.png
+<b>ewww_image_optimizer()</b>
+permissions: 0666, owner: unknown, group: unknown
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo-150x150.png
+ewwwio type: image/png
+<b>ewww_image_optimizer_find_nix_binary()</b>
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at nice
+nice: 'nice' is not recognized as an internal or external command,
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/bin/nice
+/usr/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/local/bin/nice
+/usr/local/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/gnu/bin/nice
+/usr/gnu/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/syno/bin/nice
+/usr/syno/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_skip_tools()</b>
+enabled: jpegtran
+enabled: optipng
+enabled: gifsicle
+<b>ewww_image_optimizer_stl_check()</b>
+original filesize: 6916
+PNG to JPG conversion turned off
+<b>ewww_image_optimizer_check_table()</b>
+checking for C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo-150x150.png with size: 6916
+<b>ewww_image_optimizer_path_check()</b>
+using: "C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe"
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: o at "C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe"
+"C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe": OptiPNG version 0.7.7
+optimizer found
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo-150x150.png.tmp.png
+ewwwio type: image/png
+<b>ewww_image_optimizer_webp_create()</b>
+folder mode: 16895
+attempting chmod with 438
+<b>ewww_image_optimizer_update_table()</b>
+<b>ewww_image_optimizer_find_already_optimized()</b>
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo-150x150.png
+savings: 6297 (new) vs. 6916 (orig)
+original and new file are different size: Reduced by 9,0% (619,0 B)
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo-150x150.png
+creating new record, path: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo-150x150.png, size: 6297
+<b>ewww_image_optimizer_hidpi_optimize()</b>
+processing size: medium
+creating EWWW_Image with C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo-300x143.png
+<b>ewww_image_optimizer_find_already_optimized()</b>
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo-300x143.png
+<b>ewww_image_optimizer()</b>
+permissions: 0666, owner: unknown, group: unknown
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo-300x143.png
+ewwwio type: image/png
+<b>ewww_image_optimizer_find_nix_binary()</b>
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at nice
+nice: 'nice' is not recognized as an internal or external command,
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/bin/nice
+/usr/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/local/bin/nice
+/usr/local/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/gnu/bin/nice
+/usr/gnu/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/syno/bin/nice
+/usr/syno/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_skip_tools()</b>
+enabled: jpegtran
+enabled: optipng
+enabled: gifsicle
+<b>ewww_image_optimizer_stl_check()</b>
+original filesize: 6719
+PNG to JPG conversion turned off
+<b>ewww_image_optimizer_check_table()</b>
+checking for C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo-300x143.png with size: 6719
+<b>ewww_image_optimizer_path_check()</b>
+using: "C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe"
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: o at "C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe"
+"C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe": OptiPNG version 0.7.7
+optimizer found
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo-300x143.png.tmp.png
+ewwwio type: image/png
+<b>ewww_image_optimizer_webp_create()</b>
+folder mode: 16895
+attempting chmod with 438
+<b>ewww_image_optimizer_update_table()</b>
+<b>ewww_image_optimizer_find_already_optimized()</b>
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo-300x143.png
+savings: 6189 (new) vs. 6719 (orig)
+original and new file are different size: Reduced by 7,9% (530,0 B)
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo-300x143.png
+creating new record, path: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo-300x143.png, size: 6189
+<b>ewww_image_optimizer_hidpi_optimize()</b>
+processing size: medium_large
+creating EWWW_Image with C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo-768x367.png
+<b>ewww_image_optimizer_find_already_optimized()</b>
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo-768x367.png
+<b>ewww_image_optimizer()</b>
+permissions: 0666, owner: unknown, group: unknown
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo-768x367.png
+ewwwio type: image/png
+<b>ewww_image_optimizer_find_nix_binary()</b>
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at nice
+nice: 'nice' is not recognized as an internal or external command,
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/bin/nice
+/usr/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/local/bin/nice
+/usr/local/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/gnu/bin/nice
+/usr/gnu/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/syno/bin/nice
+/usr/syno/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_skip_tools()</b>
+enabled: jpegtran
+enabled: optipng
+enabled: gifsicle
+<b>ewww_image_optimizer_stl_check()</b>
+original filesize: 19546
+PNG to JPG conversion turned off
+<b>ewww_image_optimizer_check_table()</b>
+checking for C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo-768x367.png with size: 19546
+<b>ewww_image_optimizer_path_check()</b>
+using: "C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe"
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: o at "C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe"
+"C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe": OptiPNG version 0.7.7
+optimizer found
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo-768x367.png.tmp.png
+ewwwio type: image/png
+<b>ewww_image_optimizer_webp_create()</b>
+folder mode: 16895
+attempting chmod with 438
+<b>ewww_image_optimizer_update_table()</b>
+<b>ewww_image_optimizer_find_already_optimized()</b>
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo-768x367.png
+savings: 17926 (new) vs. 19546 (orig)
+original and new file are different size: Reduced by 8,3% (1,6 KB)
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo-768x367.png
+creating new record, path: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo-768x367.png, size: 17926
+<b>ewww_image_optimizer_hidpi_optimize()</b>
+processing size: slideshow
+creating EWWW_Image with C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo-800x430.png
+<b>ewww_image_optimizer_find_already_optimized()</b>
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo-800x430.png
+<b>ewww_image_optimizer()</b>
+permissions: 0666, owner: unknown, group: unknown
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo-800x430.png
+ewwwio type: image/png
+<b>ewww_image_optimizer_find_nix_binary()</b>
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at nice
+nice: 'nice' is not recognized as an internal or external command,
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/bin/nice
+/usr/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/local/bin/nice
+/usr/local/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/gnu/bin/nice
+/usr/gnu/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: n at /usr/syno/bin/nice
+/usr/syno/bin/nice: The system cannot find the path specified.
+tool not found
+<b>ewww_image_optimizer_skip_tools()</b>
+enabled: jpegtran
+enabled: optipng
+enabled: gifsicle
+<b>ewww_image_optimizer_stl_check()</b>
+original filesize: 13411
+PNG to JPG conversion turned off
+<b>ewww_image_optimizer_check_table()</b>
+checking for C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo-800x430.png with size: 13411
+<b>ewww_image_optimizer_path_check()</b>
+using: "C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe"
+<b>ewww_image_optimizer_tool_found()</b>
+testing case: o at "C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe"
+"C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/ewww/optipng.exe": OptiPNG version 0.7.7
+optimizer found
+<b>ewww_image_optimizer_mimetype()</b>
+testing mimetype: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo-800x430.png.tmp.png
+ewwwio type: image/png
+<b>ewww_image_optimizer_webp_create()</b>
+folder mode: 16895
+attempting chmod with 438
+<b>ewww_image_optimizer_update_table()</b>
+<b>ewww_image_optimizer_find_already_optimized()</b>
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo-800x430.png
+savings: 8778 (new) vs. 13411 (orig)
+original and new file are different size: Reduced by 34,5% (4,5 KB)
+removing ABSPATH from C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo-800x430.png
+creating new record, path: C:\Users\drmsa\Documents\GitHub\tubinger-wp\wordpress/wp-content/uploads/2019/04/jumbo-800x430.png, size: 8778
+<b>ewww_image_optimizer_hidpi_optimize()</b>
+processing size: custom_logo
+2019-04-05 02:26:51
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:27:07
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:27:09
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 02:27:11
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:27:12
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:27:18
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:27:35
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:27:57
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:28:02
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:28:08
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:28:13
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:28:21
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:28:28
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:28:33
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:28:38
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:28:49
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:28:55
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:29:08
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:29:09
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 02:29:12
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:29:59
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:30:01
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:30:02
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:30:10
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:30:36
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:30:38
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:31:03
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:31:09
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 02:31:14
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:32:00
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:32:05
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 02:33:09
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 02:35:11
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
+2019-04-05 03:06:10
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 03:06:10
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 03:06:10
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 03:06:10
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 03:06:10
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 03:06:10
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 03:06:11
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 03:06:11
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 03:06:11
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 03:06:16
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 03:06:17
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 03:06:17
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 03:06:30
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 03:06:31
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 03:06:52
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 03:06:52
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 03:07:30
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 03:07:30
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 03:07:30
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 03:07:30
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 03:07:30
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 03:07:31
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 03:07:31
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 03:07:31
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 03:07:31
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 03:07:31
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 03:07:48
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 03:07:49
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 03:13:11
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 03:13:39
+<b>ewww_image_optimizer_gallery_support()</b>
+2019-04-05 03:13:40
+<b>ewww_image_optimizer_settings_script()</b>
+<b>ewww_image_optimizer_bulk_script()</b>
+<b>ewww_image_optimizer_webp_script()</b>
+2019-04-05 03:13:42
+<b>ewww_image_optimizer_gallery_support()</b>
+<b>ewww_image_optimizer_admin_init()</b>
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+<b>EWWWIO_Tracking::schedule_send()</b>
